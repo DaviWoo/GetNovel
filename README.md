@@ -19,4 +19,4 @@ Para usar o programa corretamente, siga os seguintes passos:
 
 *4.* Desative o antivírus.
 
-*4.* Divitar-se.
+*5.* Divitar-se.
