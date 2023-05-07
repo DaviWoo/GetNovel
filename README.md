@@ -17,4 +17,6 @@ Para usar o programa corretamente, siga os seguintes passos:
 
 *3.* Caso deseje, clique com o botão direito e depois em "enviar para a área de trabalho" para criar um atalho.
 
+*4.* Desative o antivírus.
+
 *4.* Divitar-se.
